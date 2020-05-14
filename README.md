@@ -1,1 +1,1 @@
-# Java-Practice-Algorithms
+#Algorithms-Hackerrank
