@@ -51,6 +51,6 @@ function main() {
     const result = compareTriplets(a, b);
 
     ws.write(result.join(' ') + '\n');
-
+    
     ws.end();
 }
